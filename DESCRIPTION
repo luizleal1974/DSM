@@ -1,0 +1,10 @@
+Package: DSM
+Type: Package
+Title: Data Set Manipulation
+Version: 0.1.0
+Author: Luiz Henrique Leal
+Maintainer: Luiz Henrique Leal <lhleal@inmetro.gov.br>
+Description: This package allows unstack and transpose an data set.
+License: GPL-2
+Encoding: UTF-8
+LazyData: FALSE
